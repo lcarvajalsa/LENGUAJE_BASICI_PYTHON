@@ -41,7 +41,7 @@ while buscar==1:
         for i, e in enumerate(lista):
             print(i,e)        
 lista.sort()
-print("LISTA ORDENADA"lista)
+print("LISTA ORDENADA",lista)
 
 
             
